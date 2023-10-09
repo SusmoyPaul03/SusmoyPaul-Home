@@ -1,3 +1,21 @@
+body{
+    text-align-last: center;  
+    background-image: url(Background.jpg);
+    color: white;
+}
+
+ul.interest{
+    display: inline-block;
+    text-align: left;
+}
+
+ol.accounts{
+    display: inline-block;
+    text-align: center;
+}
+
 .My-Picture{
-    width: 150px;
+    width: 120px;
+    border-color: rgb(43, 108, 249);
+    border-style: double;
 }
